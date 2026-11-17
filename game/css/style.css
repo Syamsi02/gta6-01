@@ -1,0 +1,28 @@
+/* Palmera Bay — page chrome. The game itself draws everything on the canvas. */
+html, body {
+  margin: 0;
+  padding: 0;
+  background: #0c1220;
+  height: 100%;
+  overflow: hidden;
+}
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#game {
+  display: block;
+  width: min(100vw, 160vh);
+  height: min(100vh, 62.5vw);
+  background: #1c2b1a;
+  image-rendering: auto;
+  outline: none;
+}
+#fallback {
+  display: none;
+  color: #e8e4d8;
+  font: 16px/1.5 system-ui, sans-serif;
+  padding: 24px;
+  text-align: center;
+}
