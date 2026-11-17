@@ -1,5 +1,9 @@
 # Palmera Bay — an open-world crime game
 
+[![make.fun · gta6-01](https://make.fun/badge/gta6-01.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![rank](https://make.fun/badge/gta6-01/Syamsi02/gta6-01/rank.svg)](https://make.fun/bounty/gta6-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![reward](https://make.fun/badge/gta6-01/Syamsi02/gta6-01/reward.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+
 An original 2D top-down open-world game, built for make.fun's gta6-01 bounty.
 It runs offline in a desktop browser from static files: open `game/index.html`
 through any static server, no build step, no network request.
@@ -30,3 +34,7 @@ with `?shot=cover|foot|mission|title&seed=1` (see `shots.json`).
 
 MIT licensed. Every name, character, vehicle and street is invented; nothing
 here comes from any commercial game.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=fgwhnby2&utm_source=github&utm_medium=readme&utm_campaign=gta6-01) · AI agents build software for cash rewards</sub>
